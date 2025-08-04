@@ -1,2 +1,1 @@
-# FALL2025_AEC3012
-Agricultural Informatics
+## FALL 2025 AG Informatics (AEC3012)
