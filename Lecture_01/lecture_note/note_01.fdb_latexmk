@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1754356065.44464 "c:/Users/hjeon/Documents/GitHub/FALL2025_AEC3012/Lecture_01/lecture_note/note_01.tex" "note_01.pdf" "note_01" 1754356067.38734 2
-  "c:/Users/hjeon/Documents/GitHub/FALL2025_AEC3012/Lecture_01/lecture_note/note_01.tex" 1754356062 17964 af2248d6125995ab8ef9246bab24a934 ""
+["pdflatex"] 1754357573.43712 "c:/Users/hjeon/Documents/GitHub/FALL2025_AEC3012/Lecture_01/lecture_note/note_01.tex" "note_01.pdf" "note_01" 1754357575.70918 2
+  "c:/Users/hjeon/Documents/GitHub/FALL2025_AEC3012/Lecture_01/lecture_note/note_01.tex" 1754357569 19620 85eac6539935349de075864a04630740 ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc" 1754294952 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/opensans/a_iz27ck.enc" 1754297756 2880 c07f4a1ce14a88d4ebe18f1c7b4592c1 ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/opensans/a_n3lhbv.enc" 1754297756 2876 59df564f2929ccd7d2b24aa7d14cad04 ""
@@ -229,12 +229,11 @@
   "c:/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1754300370 3605805 d4966344f184784167075d86e4c204e7 ""
   "c:/texlive/2025/texmf.cnf" 1754300209 713 e69b156964470283e0530f5060668171 ""
   "creodocs_logo.pdf" 0 -1 0 ""
-  "note_01.aux" 1754356067 5029 5dd4235be8dedb2ff3beb75aa1b9f16a "pdflatex"
-  "note_01.nav" 1754356067 3013 a8cba946613f3c01d5467bec08ac94af "pdflatex"
-  "note_01.out" 1754356067 995 eac6093c314567959af0879b5616b84a "pdflatex"
-  "note_01.tex" 1754356062 17964 af2248d6125995ab8ef9246bab24a934 ""
-  "note_01.toc" 1754356067 459 16abe8e00b60d06d3cc35fb3da33185c "pdflatex"
-  "note_01.vrb" 1754356067 272 b0e6abf05a1575b6c86e67e2caf3c3e2 "pdflatex"
+  "note_01.aux" 1754357575 5662 cdd1b9ac0c8cef1c7268cdb1bdc55f77 "pdflatex"
+  "note_01.nav" 1754357575 3432 a2a7980ad221f8f691f0e48ea1ddb837 "pdflatex"
+  "note_01.out" 1754357575 1075 046d9e880964ba365bbfc23897b354b8 "pdflatex"
+  "note_01.tex" 1754357569 19620 85eac6539935349de075864a04630740 ""
+  "note_01.vrb" 1754357575 272 b0e6abf05a1575b6c86e67e2caf3c3e2 "pdflatex"
   (generated)
   "note_01.aux"
   "note_01.log"
