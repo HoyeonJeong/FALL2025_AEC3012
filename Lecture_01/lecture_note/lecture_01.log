@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.8.4)  5 AUG 2025 13:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.8.4)  5 AUG 2025 14:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/hjeon/Documents/GitHub/FALL2025_AEC3012/Lecture_01/lecture_note/note_01.tex
-(c:/Users/hjeon/Documents/GitHub/FALL2025_AEC3012/Lecture_01/lecture_note/note_01.tex
+**c:/Users/hjeon/Documents/GitHub/FALL2025_AEC3012/Lecture_01/lecture_note/lecture_01.tex
+(c:/Users/hjeon/Documents/GitHub/FALL2025_AEC3012/Lecture_01/lecture_note/lecture_01.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-20>
 (c:/texlive/2025/texmf-dist/tex/latex/beamer/beamer.cls
@@ -579,8 +579,9 @@ LaTeX Font Info:    Font shape `OT1/opensans-TLF/m/n' will be
  (c:/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count363
-) (./note_01.aux)
-\openout1 = `note_01.aux'.
+)
+No file lecture_01.aux.
+\openout1 = `lecture_01.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 157.
 LaTeX Font Info:    ... okay on input line 157.
@@ -600,7 +601,6 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 157.
 LaTeX Font Info:    ... okay on input line 157.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 157.
 LaTeX Font Info:    ... okay on input line 157.
-
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -656,7 +656,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package hyperref Info: Link coloring OFF on input line 157.
 \@outlinefile=\write5
-\openout5 = `note_01.out'.
+\openout5 = `lecture_01.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 157.
@@ -715,7 +715,7 @@ Dictionary: translator-theorem-dictionary, Language: English
 )
 \c@mv@tabular=\count370
 \c@mv@boldtabular=\count371
- (./note_01.nav)
+ (./lecture_01.nav)
 LaTeX Font Info:    Font shape `OT1/opensans-TLF/m/n' will be
 (Font)              scaled to size 6.0pt on input line 157.
 LaTeX Font Info:    Font shape `OT1/opensans-TLF/m/n' will be
@@ -785,5 +785,184 @@ Package pdftex.def Info: images/figure2.png  used on input line 229.
 [6
 
  <./images/figure2.png>]
-!pdfTeX error: pdflatex.exe (file ./images/figure3.png): libpng: internal error
- ==> Fatal error occurred, no output PDF file produced!
+<images/figure3.jpg, id=241, 855.195pt x 481.8pt>
+File: images/figure3.jpg Graphic file (type jpg)
+<use images/figure3.jpg>
+Package pdftex.def Info: images/figure3.jpg  used on input line 238.
+(pdftex.def)             Requested size: 273.83728pt x 154.27472pt.
+
+
+[7
+
+ <./images/figure3.jpg>]
+LaTeX Font Info:    Font shape `OT1/opensans-TLF/m/it' will be
+(Font)              scaled to size 10.95pt on input line 265.
+
+
+[8
+
+]
+LaTeX Font Info:    Font shape `OT1/opensans-TLF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 289.
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 289.
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <7> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 289.
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <5> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 289.
+LaTeX Font Info:    Font shape `OT1/opensans-TLF/m/n' will be
+(Font)              scaled to size 9.0pt on input line 289.
+
+
+[9
+
+]
+
+[10
+
+]
+LaTeX Font Info:    Font shape `OT1/opensans-TLF/b/n' will be
+(Font)              scaled to size 10.95pt on input line 336.
+
+
+[11
+
+]
+
+[12
+
+]
+
+LaTeX Warning: File `creodocs_logo.pdf' not found on input line 373.
+
+
+c:/Users/hjeon/Documents/GitHub/FALL2025_AEC3012/Lecture_01/lecture_note/lecture_01.tex:373: Package pdftex.def Error: File `creodocs_logo.pdf' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.373 \end{frame}
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 373.
+(c:/texlive/2025/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+Overfull \vbox (82.00008pt too high) detected at line 373
+ []
+
+
+
+[13
+
+{c:/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc}]
+
+[14
+
+]
+
+[15
+
+]
+
+[16
+
+]
+\openout4 = `lecture_01.vrb'.
+
+ (./lecture_01.vrb)
+
+[17
+
+]
+
+[18
+
+]
+LaTeX Font Info:    Trying to load font information for OMS+pcr on input line 463.
+ (c:/texlive/2025/texmf-dist/tex/latex/psnfss/omspcr.fd
+File: omspcr.fd 
+)
+LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 463.
+
+
+LaTeX Warning: Citation `p1' on page 19 undefined on input line 463.
+
+
+LaTeX Warning: Citation `p2' on page 19 undefined on input line 463.
+
+
+
+[19
+
+]
+LaTeX Font Info:    Font shape `OT1/opensans-TLF/m/it' will be
+(Font)              scaled to size 9.0pt on input line 483.
+
+
+[20
+
+ <c:/texlive/2025/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>]
+
+[21
+
+]
+LaTeX Font Info:    Font shape `OT1/opensans-TLF/m/n' will be
+(Font)              scaled to size 24.88pt on input line 528.
+LaTeX Font Info:    Font shape `OT1/opensans-TLF/m/n' will be
+(Font)              scaled to size 17.28pt on input line 528.
+
+
+[22
+
+]
+\tf@nav=\write6
+\openout6 = `lecture_01.nav'.
+
+\tf@toc=\write7
+\openout7 = `lecture_01.toc'.
+
+\tf@snm=\write8
+\openout8 = `lecture_01.snm'.
+
+ (./lecture_01.aux)
+ ***********
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-07-20>
+ ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `lecture_01.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `lecture_01.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  F321E351674211B4DD77A7299D062853;1077.
+ ) 
+Here is how much of TeX's memory you used:
+ 22963 strings out of 467801
+ 448573 string characters out of 5436090
+ 813217 words of memory out of 5000000
+ 51031 multiletter control sequences out of 15000+600000
+ 654327 words of font info for 114 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 128i,15n,123p,525b,907s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2025/texmf-dist/fonts/type1/ascender/opensans/OpenSans-Bold.pfb><c:/texlive/2025/texmf-dist/fonts/type1/ascender/opensans/OpenSans-Italic.pfb><c:/texlive/2025/texmf-dist/fonts/type1/ascender/opensans/OpenSans-Regular.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on lecture_01.pdf (22 pages, 1564883 bytes).
+PDF statistics:
+ 879 PDF objects out of 1000 (max. 8388607)
+ 707 compressed objects within 8 object streams
+ 60 named destinations out of 1000 (max. 500000)
+ 568 words of extra memory for PDF output out of 10000 (max. 10000000)
+
