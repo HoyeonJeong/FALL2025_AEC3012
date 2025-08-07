@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.8.4)  5 AUG 2025 14:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.8.4)  7 AUG 2025 13:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -579,8 +579,7 @@ LaTeX Font Info:    Font shape `OT1/opensans-TLF/m/n' will be
  (c:/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count363
-)
-No file lecture_01.aux.
+) (./lecture_01.aux)
 \openout1 = `lecture_01.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 157.
@@ -601,6 +600,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 157.
 LaTeX Font Info:    ... okay on input line 157.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 157.
 LaTeX Font Info:    ... okay on input line 157.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -655,6 +655,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package hyperref Info: Link coloring OFF on input line 157.
+ (./lecture_01.out) (./lecture_01.out)
 \@outlinefile=\write5
 \openout5 = `lecture_01.out'.
 
@@ -765,7 +766,7 @@ LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <6> not available
 [4
 
 ]
-<images/figure1.png, id=180, 1027.84pt x 496.85625pt>
+<images/figure1.png, id=183, 1027.84pt x 496.85625pt>
 File: images/figure1.png Graphic file (type png)
 <use images/figure1.png>
 Package pdftex.def Info: images/figure1.png  used on input line 220.
@@ -775,7 +776,7 @@ Package pdftex.def Info: images/figure1.png  used on input line 220.
 [5
 
  <./images/figure1.png>]
-<images/figure2.png, id=211, 552.0625pt x 331.2375pt>
+<images/figure2.png, id=214, 552.0625pt x 331.2375pt>
 File: images/figure2.png Graphic file (type png)
 <use images/figure2.png>
 Package pdftex.def Info: images/figure2.png  used on input line 229.
@@ -785,7 +786,7 @@ Package pdftex.def Info: images/figure2.png  used on input line 229.
 [6
 
  <./images/figure2.png>]
-<images/figure3.jpg, id=240, 855.195pt x 481.8pt>
+<images/figure3.jpg, id=243, 855.195pt x 481.8pt>
 File: images/figure3.jpg Graphic file (type jpg)
 <use images/figure3.jpg>
 Package pdftex.def Info: images/figure3.jpg  used on input line 238.
@@ -795,21 +796,16 @@ Package pdftex.def Info: images/figure3.jpg  used on input line 238.
 [7
 
  <./images/figure3.jpg>]
-c:/Users/hjeon/Documents/GitHub/FALL2025_AEC3012/Lecture_01/lecture_note/lecture_01.tex:245: Misplaced alignment tab character &.
-\insertframetitle ->{Information &
-                                   Technology\ifnum \beamer@autobreakcount >...
-l.245 \end{frame}
-                 
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-
 
 [8
+
+]
+
+[9
+
+]
+
+[10
 
 ]
 \tf@nav=\write6
@@ -826,32 +822,22 @@ might try typing `S' now just to see what is salvageable.
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-20>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `lecture_01.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `lecture_01.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  4A8854286F2094C7149DF7D736F18EF2;77.
+Package rerunfilecheck Info: File `lecture_01.out' has not changed.
+(rerunfilecheck)             Checksum: 4A8854286F2094C7149DF7D736F18EF2;77.
  ) 
 Here is how much of TeX's memory you used:
- 22457 strings out of 467801
- 436361 string characters out of 5436090
- 810217 words of memory out of 5000000
- 50589 multiletter control sequences out of 15000+600000
+ 22475 strings out of 467801
+ 436591 string characters out of 5436090
+ 810552 words of memory out of 5000000
+ 50597 multiletter control sequences out of 15000+600000
  639544 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,15n,123p,525b,641s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/ascender/opensans/OpenSans-Italic.pfb><c:/texlive/2025/texmf-dist/fonts/type1/ascender/opensans/OpenSans-Regular.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on lecture_01.pdf (8 pages, 1463802 bytes).
+Output written on lecture_01.pdf (10 pages, 1467964 bytes).
 PDF statistics:
- 318 PDF objects out of 1000 (max. 8388607)
- 255 compressed objects within 3 object streams
- 21 named destinations out of 1000 (max. 500000)
- 208 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 378 PDF objects out of 1000 (max. 8388607)
+ 310 compressed objects within 4 object streams
+ 25 named destinations out of 1000 (max. 500000)
+ 216 words of extra memory for PDF output out of 10000 (max. 10000000)
 
