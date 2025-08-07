@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1754542641.17335 "c:/Users/hjeon/Documents/GitHub/FALL2025_AEC3012/Lecture_01/lecture_note/lecture_01.tex" "lecture_01.pdf" "lecture_01" 1754542643.13235 0
-  "c:/Users/hjeon/Documents/GitHub/FALL2025_AEC3012/Lecture_01/lecture_note/lecture_01.tex" 1754542638 12157 776ef3494509c3e10dd4bf01668e910f ""
+["pdflatex"] 1754543290.35878 "c:/Users/hjeon/Documents/GitHub/FALL2025_AEC3012/Lecture_01/lecture_note/lecture_01.tex" "lecture_01.pdf" "lecture_01" 1754543292.8452 0
+  "c:/Users/hjeon/Documents/GitHub/FALL2025_AEC3012/Lecture_01/lecture_note/lecture_01.tex" 1754543287 13048 35a392ad9b4c2ddb9270e482580c2df2 ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/opensans/a_iz27ck.enc" 1754297756 2880 c07f4a1ce14a88d4ebe18f1c7b4592c1 ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/opensans/a_n3lhbv.enc" 1754297756 2876 59df564f2929ccd7d2b24aa7d14cad04 ""
   "c:/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1754295533 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -210,10 +210,15 @@
   "images/figure1.png" 1754357968 1093104 e0aeb170d1854f8fc6eb915c6fba8f21 ""
   "images/figure2.png" 1754358440 36507 3e629c9d76313fc31c70d8e85760a882 ""
   "images/figure3.jpg" 1754370040 98278 1a8dbdae14528353f8ff970ee3b564f1 ""
-  "lecture_01.aux" 1754542642 2790 434a99113d97e4d1f3e318335fc3a901 "pdflatex"
-  "lecture_01.nav" 1754542642 1268 a972ac0c9f05b02f0102ead3f57d4d25 "pdflatex"
-  "lecture_01.out" 1754542642 77 4a8854286f2094c7149df7d736f18ef2 "pdflatex"
-  "lecture_01.tex" 1754542638 12157 776ef3494509c3e10dd4bf01668e910f ""
+  "images/figure4.png" 1754542867 114729 2053dfac463c9469a2c56b28107100a4 ""
+  "images/figure5.png" 1754542905 102460 4a39cdb23f41921d2c4d928120d49434 ""
+  "images/figure6.png" 1754542977 149378 0d81730a43d3d4eab1935be0afc364e6 ""
+  "images/figure7.png" 1754543084 328903 7f80543f723d7335a7aeff37e9fd1323 ""
+  "images/figure8.png" 1754543161 111015 8d10c6268a6ff1c7c4c3430ed811cc6e ""
+  "lecture_01.aux" 1754543292 3875 21469c07f8a8d9ab4c408e9771739a3c "pdflatex"
+  "lecture_01.nav" 1754543292 1763 9ffa28938610de9aa7b83727f5945a9a "pdflatex"
+  "lecture_01.out" 1754543292 77 4a8854286f2094c7149df7d736f18ef2 "pdflatex"
+  "lecture_01.tex" 1754543287 13048 35a392ad9b4c2ddb9270e482580c2df2 ""
   (generated)
   "lecture_01.aux"
   "lecture_01.log"
