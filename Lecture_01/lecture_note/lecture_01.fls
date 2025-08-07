@@ -444,6 +444,16 @@ INPUT ./images/figure8.png
 INPUT ./images/figure8.png
 INPUT ./images/figure8.png
 INPUT ./images/figure8.png
+INPUT ./images/figure9.png
+INPUT ./images/figure9.png
+INPUT ./images/figure9.png
+INPUT ./images/figure9.png
+INPUT ./images/figure9.png
+INPUT ./images/figure10.png
+INPUT ./images/figure10.png
+INPUT ./images/figure10.png
+INPUT ./images/figure10.png
+INPUT ./images/figure10.png
 OUTPUT lecture_01.nav
 OUTPUT lecture_01.toc
 OUTPUT lecture_01.snm

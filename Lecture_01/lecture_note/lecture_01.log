@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.8.4)  7 AUG 2025 14:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.8.4)  7 AUG 2025 14:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -592,6 +592,9 @@ LaTeX Warning: Label `fig' multiply defined.
 
 LaTeX Warning: Label `fig' multiply defined.
 
+
+LaTeX Warning: Label `fig: Kaloxylos et al. 2012' multiply defined.
+
 )
 \openout1 = `lecture_01.aux'.
 
@@ -895,6 +898,39 @@ l.304 \end{frame}
 [15
 
 ]
+<images/figure9.png, id=504, 898.85812pt x 663.98062pt>
+File: images/figure9.png Graphic file (type png)
+<use images/figure9.png>
+Package pdftex.def Info: images/figure9.png  used on input line 323.
+(pdftex.def)             Requested size: 273.83728pt x 202.2757pt.
+
+
+[16
+
+ <./images/figure9.png>]
+<images/figure10.png, id=534, 901.11656pt x 649.67719pt>
+File: images/figure10.png Graphic file (type png)
+<use images/figure10.png>
+Package pdftex.def Info: images/figure10.png  used on input line 332.
+(pdftex.def)             Requested size: 273.83728pt x 197.43254pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:\040Kaloxylos\040et\040al.\0402012}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.332 \end{frame}
+                 
+
+[17
+
+ <./images/figure10.png>]
+
+[18
+
+]
+
+[19
+
+]
 \tf@nav=\write6
 \openout6 = `lecture_01.nav'.
 
@@ -917,18 +953,18 @@ Package rerunfilecheck Info: File `lecture_01.out' has not changed.
 (rerunfilecheck)             Checksum: 4A8854286F2094C7149DF7D736F18EF2;77.
  ) 
 Here is how much of TeX's memory you used:
- 22532 strings out of 467801
- 437644 string characters out of 5436090
- 810616 words of memory out of 5000000
- 50643 multiletter control sequences out of 15000+600000
+ 22564 strings out of 467801
+ 438205 string characters out of 5436090
+ 810664 words of memory out of 5000000
+ 50666 multiletter control sequences out of 15000+600000
  639544 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,15n,123p,525b,641s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/ascender/opensans/OpenSans-Italic.pfb><c:/texlive/2025/texmf-dist/fonts/type1/ascender/opensans/OpenSans-Regular.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on lecture_01.pdf (15 pages, 2064971 bytes).
+Output written on lecture_01.pdf (19 pages, 2490971 bytes).
 PDF statistics:
- 527 PDF objects out of 1000 (max. 8388607)
- 438 compressed objects within 5 object streams
- 36 named destinations out of 1000 (max. 500000)
- 241 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 646 PDF objects out of 1000 (max. 8388607)
+ 544 compressed objects within 6 object streams
+ 45 named destinations out of 1000 (max. 500000)
+ 251 words of extra memory for PDF output out of 10000 (max. 10000000)
 
