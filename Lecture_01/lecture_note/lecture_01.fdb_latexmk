@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1754618385.86833 "c:/Users/hjeon/Documents/GitHub/FALL2025_AEC3012/Lecture_01/lecture_note/lecture_01.tex" "lecture_01.pdf" "lecture_01" 1754618389.09696 0
-  "c:/Users/hjeon/Documents/GitHub/FALL2025_AEC3012/Lecture_01/lecture_note/lecture_01.tex" 1754618381 14448 205488dfc08c810e7dee3986a9c3b286 ""
+["pdflatex"] 1754630127.64184 "c:/Users/hjeon/Documents/GitHub/FALL2025_AEC3012/Lecture_01/lecture_note/lecture_01.tex" "lecture_01.pdf" "lecture_01" 1754630130.93409 0
+  "c:/Users/hjeon/Documents/GitHub/FALL2025_AEC3012/Lecture_01/lecture_note/lecture_01.tex" 1754630126 15224 46fc8d1673dfe071eaeaa7058ce807a4 ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/opensans/a_iz27ck.enc" 1754297756 2880 c07f4a1ce14a88d4ebe18f1c7b4592c1 ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/opensans/a_n3lhbv.enc" 1754297756 2876 59df564f2929ccd7d2b24aa7d14cad04 ""
   "c:/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1754295533 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -220,10 +220,10 @@
   "images/figure7.png" 1754543084 328903 7f80543f723d7335a7aeff37e9fd1323 ""
   "images/figure8.png" 1754543161 111015 8d10c6268a6ff1c7c4c3430ed811cc6e ""
   "images/figure9.png" 1754545468 318654 2a2fd3864bedd040a0ea226b451eefc1 ""
-  "lecture_01.aux" 1754618388 5017 496432ae35ae3c653a3625366abf6022 "pdflatex"
-  "lecture_01.nav" 1754618388 2132 9ecbcfc9f7de68c052dc9846a033acac "pdflatex"
-  "lecture_01.out" 1754618386 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "lecture_01.tex" 1754618381 14448 205488dfc08c810e7dee3986a9c3b286 ""
+  "lecture_01.aux" 1754630130 5974 5acda2498789346d61854ce71f793ea5 "pdflatex"
+  "lecture_01.nav" 1754630130 2693 ecd17d62307b3a12c89962149f8b4a05 "pdflatex"
+  "lecture_01.out" 1754630130 107 c1b5d1afda93b2aca216fa93dfff4463 "pdflatex"
+  "lecture_01.tex" 1754630126 15224 46fc8d1673dfe071eaeaa7058ce807a4 ""
   (generated)
   "lecture_01.aux"
   "lecture_01.log"
